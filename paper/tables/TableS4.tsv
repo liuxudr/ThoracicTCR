@@ -1,0 +1,15 @@
+sample_id	cohort	exclusion_reason	evidence_note
+SRR8526718	GSE126044	fastq incomplete or missing	R1=PARTIAL; R2=PARTIAL
+SRR8526720	GSE126044	fastq incomplete or missing	R1=PARTIAL; R2=PARTIAL
+SRR9879265	GSE135222	fastq incomplete or missing	R1=MISSING; R2=OK
+SRR9879272	GSE135222	fastq incomplete or missing	R1=PARTIAL; R2=OK
+SRR9879274	GSE135222	fastq incomplete or missing	R1=MISSING; R2=OK
+SRR9879280	GSE135222	fastq incomplete or missing	R1=OK; R2=PARTIAL
+SRR9879283	GSE135222	fastq incomplete or missing	R1=PARTIAL; R2=MISSING
+SRR9879284	GSE135222	no productive TRB	TRUST4 report empty after productive TRB filter
+SRR9879289	GSE135222	fastq incomplete or missing	R1=PARTIAL; R2=OK
+SRR9879291	GSE135222	fastq incomplete or missing	R1=PARTIAL; R2=PARTIAL
+SRR11094243	GSE145370	fastq incomplete or missing	R1=PARTIAL; R2=PARTIAL
+SRR11094251	GSE145370	fastq incomplete or missing	R1=PARTIAL; R2=PARTIAL
+SRR11094253	GSE145370	fastq incomplete or missing	R1=PARTIAL; R2=PARTIAL
+SRR11094258	GSE145370	fastq incomplete or missing	R1=PARTIAL; R2=PARTIAL

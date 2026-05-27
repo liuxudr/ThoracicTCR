@@ -1,0 +1,79 @@
+# Data
+data/
+data_external/
+*.bam
+*.bai
+*.cram
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.h5ad
+*.h5
+*.npz
+*.pt
+*.pkl
+*.joblib
+
+# Outputs
+paper/figures/*.pdf
+paper/figures/*.png
+!paper/figures/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+wandb/
+
+# Tool outputs
+gdc_*.txt
+*.tmp
+
+# Internal development documents (not part of the public release)
+CLAUDE.md
+PILOT_RESULTS.md
+ThoracicTCR_Implementation_Plan.md
+notebooks/
+
+# Credentials — NEVER commit
+github_ana.md
+*.token
+*.pat
+.gh_token
+
+# Superseded / experimental versions of figure scripts
+R/_v1/
+R/_deprecated/
+
+# Manuscript working files (kept out of the public CLI repo;
+# figures/ and tables/ are regenerated from `thoracictcr figures render`)
+paper/manuscript/

@@ -1,0 +1,26 @@
+tool	version	source
+arcasHLA	0.6.0	conda thoracictcr
+TRUST4	[Wed May 27 09:06:16 2026] TRUST4 v1.1.5-r573 begins.	conda thoracictcr
+samtools	samtools 1.23.1	conda thoracictcr
+gdc-client	v1.6.1	local install
+aria2c	aria2 version 1.37.0	conda thoracictcr
+Python	Python 3.10.12	conda thoracictcr
+py:pandas	2.2.3	pip (conda thoracictcr)
+py:numpy	2.0.2	pip (conda thoracictcr)
+py:scipy	1.15.3	pip (conda thoracictcr)
+py:scikit-learn	1.7.2	pip (conda thoracictcr)
+py:requests	2.33.0	pip (conda thoracictcr)
+py:lifelines	0.30.0	pip (conda thoracictcr)
+py:lightgbm	4.6.0	pip (conda thoracictcr)
+py:biopython	1.87	pip (conda thoracictcr)
+r:ggplot2	4.0.1	R (system Rscript)
+r:ggsci	4.1.0	R (system Rscript)
+r:patchwork	1.3.2	R (system Rscript)
+r:dplyr	1.1.4	R (system Rscript)
+r:tidyr	1.3.1	R (system Rscript)
+r:readr	2.1.6	R (system Rscript)
+r:knitr	1.50	R (system Rscript)
+r:purrr	1.2.0	R (system Rscript)
+r:scales	1.4.0	R (system Rscript)
+OS-kernel	6.8.0-111-generic	host
+R	Rscript (R) version 4.4.2 (2024-10-31)	system

@@ -1,0 +1,12 @@
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR852/005/SRR8526725/SRR8526725_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR8526725_R1.fastq.gz
+  checksum=md5=5932acef93e74e2942a244426680f156
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR852/005/SRR8526725/SRR8526725_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR8526725_R2.fastq.gz
+  checksum=md5=b338c2b35819793a9555fe22b7e8c4f5
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR174/096/SRR17491496/SRR17491496_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR17491496_R2.fastq.gz
+  checksum=md5=538f651d8f11fd38cc87bca1aba27926

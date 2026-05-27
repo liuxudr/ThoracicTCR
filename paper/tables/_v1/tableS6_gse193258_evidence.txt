@@ -1,0 +1,8 @@
+Supplementary Table S6. GSE193258 exclusion evidence (2/2 GSE193258 samples have <10% V+J assemblies).
+
+sample_id     cohort      label                     n_assemblies   n_V_plus_J   n_V_only   n_J_only   n_none   pct_V_plus_J   median_cdr3_nt_len   mean_cdr3_nt_len  interpretation                                                                
+------------  ----------  -----------------------  -------------  -----------  ---------  ---------  -------  -------------  -------------------  -----------------  ------------------------------------------------------------------------------
+SRR8526721    GSE126044   Good cohort                      65470        54430       7254       3786        0      83.137315                 36.0           38.50904  Reference: well-behaved cohort, 83.1% V+J assemblies                          
+SRR11094249   GSE145370   Good cohort                      28410        20015       3507       4888        0      70.450546                 39.0           41.97973  Reference: well-behaved cohort, 70.5% V+J assemblies                          
+SRR17491496   GSE193258   Problematic (excluded)              30            0         24          6        0       0.000000                 43.5           58.56667  Supports exclusion: 0.0% V+J assemblies (< 10% threshold); 24 V-only vs 0 V+J 
+SRR17491517   GSE193258   Problematic (excluded)              19            1         15          3        0       5.263158                 45.0           61.94737  Supports exclusion: 5.3% V+J assemblies (< 10% threshold); 15 V-only vs 1 V+J 

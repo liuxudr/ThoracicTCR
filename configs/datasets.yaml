@@ -1,0 +1,92 @@
+# TCGA thoracic cancer projects for ThoracicTCR
+# 5 thoracic tumor types covered by thoracic surgery
+
+tcga_projects:
+  TCGA-LUAD:
+    full_name: Lung Adenocarcinoma
+    expected_samples: 520
+    sample_types: [Primary Tumor, Solid Tissue Normal]
+    primary_use: training + cross-cancer comparison
+  TCGA-LUSC:
+    full_name: Lung Squamous Cell Carcinoma
+    expected_samples: 500
+    sample_types: [Primary Tumor, Solid Tissue Normal]
+    primary_use: training + cross-cancer comparison
+  TCGA-ESCA:
+    full_name: Esophageal Carcinoma (ESCC + EAC mixed)
+    expected_samples: 185
+    sample_types: [Primary Tumor]
+    primary_use: ESCC/EAC subtype split, Chinese population relevance
+  TCGA-MESO:
+    full_name: Mesothelioma (pleural)
+    expected_samples: 87
+    sample_types: [Primary Tumor]
+    primary_use: rare cohort, asbestos-related
+  TCGA-THYM:
+    full_name: Thymoma + Thymic Carcinoma
+    expected_samples: 124
+    sample_types: [Primary Tumor]
+    primary_use: pilot + autoimmunity deep dive
+
+# GDC API endpoints
+gdc_api:
+  base: https://api.gdc.cancer.gov
+  files_endpoint: /files
+  data_endpoint: /data
+  cases_endpoint: /cases
+
+# Data category filters for RNA-seq BAM
+gdc_filters:
+  experimental_strategy: RNA-Seq
+  data_category: Sequencing Reads
+  data_format: BAM
+  access: open  # use open-access aligned BAMs first; fastq requires dbGaP
+
+# Pilot configuration
+pilot:
+  project: TCGA-THYM
+  n_samples: 10
+  sample_selection: random_seed_42
+  purpose: end-to-end pipeline validation (download -> TRUST4 -> diversity)
+
+# External public TCR/antigen databases
+public_databases:
+  vdjdb:
+    url: https://github.com/antigenomics/vdjdb-db/releases/latest
+    license: CC-BY 4.0
+    citation: Bagaev DV et al. NAR 2020
+  mcpas_tcr:
+    url: http://friedmanlab.weizmann.ac.il/McPAS-TCR/
+    license: free for academic
+    citation: Tickotsky N et al. Bioinformatics 2017
+  iedb:
+    url: https://www.iedb.org/database_export_v3.php
+    license: free
+    citation: Vita R et al. NAR 2019
+  tcrdb:
+    url: http://bioinfo.life.hust.edu.cn/TCRdb/
+    license: free academic
+    citation: Chen S-Y et al. NAR 2021
+
+# ICI response external cohorts (for supervised modeling)
+ici_cohorts:
+  GSE126044:
+    cancer: NSCLC
+    treatment: nivolumab
+    endpoint: Response (R/NR)
+    samples: 16
+  GSE135222:
+    cancer: NSCLC
+    treatment: nivolumab
+    endpoint: Response (R/NR)
+    samples: 27
+  GSE207422:
+    cancer: NSCLC (neoadjuvant)
+    treatment: pembrolizumab/nivolumab
+    endpoint: MPR
+    samples: 21
+  GSE193258:
+    cancer: NSCLC (neoadjuvant)
+    treatment: pembrolizumab
+    endpoint: MPR
+    samples: 25

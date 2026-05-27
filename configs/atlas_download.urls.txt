@@ -1,0 +1,168 @@
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR110/053/SRR11094253/SRR11094253_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR11094253_R1.fastq.gz
+  checksum=md5=d9dd37708af47925e3ddb815d0b49cb8
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR110/053/SRR11094253/SRR11094253_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR11094253_R2.fastq.gz
+  checksum=md5=f35c72c7607f756e002737d986b604a7
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR110/051/SRR11094251/SRR11094251_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR11094251_R1.fastq.gz
+  checksum=md5=02b9eb1dd1dc04c4fbeaf20865f16a8b
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR110/051/SRR11094251/SRR11094251_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR11094251_R2.fastq.gz
+  checksum=md5=5736bc872626db31086db81e8786ab09
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR110/043/SRR11094243/SRR11094243_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR11094243_R1.fastq.gz
+  checksum=md5=e24e5d481ef763a79b1313b14ce3169b
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR110/043/SRR11094243/SRR11094243_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR11094243_R2.fastq.gz
+  checksum=md5=52d6243a523cda6fca3f1c3989cd4d3d
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR110/058/SRR11094258/SRR11094258_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR11094258_R1.fastq.gz
+  checksum=md5=4d8e3060442dda22a37c8b282e4ad815
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR110/058/SRR11094258/SRR11094258_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR11094258_R2.fastq.gz
+  checksum=md5=51baf4db61210a79b6bd766d2ccb8cc4
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/009/SRR9879269/SRR9879269_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879269_R1.fastq.gz
+  checksum=md5=08b51c17a4d8d481e59ddabaf3cdcace
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/009/SRR9879269/SRR9879269_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879269_R2.fastq.gz
+  checksum=md5=49eafa4a14cbfe5be42f9d10c089c019
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/004/SRR9879284/SRR9879284_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879284_R1.fastq.gz
+  checksum=md5=2f0b9657f46c57e2a670e2f08438c0d7
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/004/SRR9879284/SRR9879284_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879284_R2.fastq.gz
+  checksum=md5=0b762c355f08aa4bd908a6f5ae893c51
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/009/SRR9879289/SRR9879289_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879289_R1.fastq.gz
+  checksum=md5=a817609c89644300e8689b2101233483
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/009/SRR9879289/SRR9879289_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879289_R2.fastq.gz
+  checksum=md5=153be49d00b3e26e9fbc6a3395a140ea
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/005/SRR9879275/SRR9879275_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879275_R1.fastq.gz
+  checksum=md5=9d8e60ee8e0d525c4dc718255634b055
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/005/SRR9879275/SRR9879275_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879275_R2.fastq.gz
+  checksum=md5=3994db42de4ad6b63440cf48f10de736
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/000/SRR9879280/SRR9879280_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879280_R1.fastq.gz
+  checksum=md5=207b20661f16edaeeec583d18321e8ab
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/000/SRR9879280/SRR9879280_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879280_R2.fastq.gz
+  checksum=md5=f0a51ddbf4b37572aaec04718f376dde
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/003/SRR9879283/SRR9879283_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879283_R1.fastq.gz
+  checksum=md5=d27119bad9623fd5fcca781b342c6ca3
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/003/SRR9879283/SRR9879283_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879283_R2.fastq.gz
+  checksum=md5=4f665b80de3e45d851960b2556c655f4
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/005/SRR9879265/SRR9879265_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879265_R1.fastq.gz
+  checksum=md5=129f5c8e855120f682f65e6a0edc1b22
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/005/SRR9879265/SRR9879265_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879265_R2.fastq.gz
+  checksum=md5=484d982c7823b9700854d7642534008d
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/004/SRR9879274/SRR9879274_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879274_R1.fastq.gz
+  checksum=md5=4e01b118db8ad0749c2615a78d536b90
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/004/SRR9879274/SRR9879274_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879274_R2.fastq.gz
+  checksum=md5=28c78ee29e969e1a9c744a112a9df2f3
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/002/SRR9879272/SRR9879272_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879272_R1.fastq.gz
+  checksum=md5=27194c120c8205ac16e02d5ac3401b6b
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/002/SRR9879272/SRR9879272_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879272_R2.fastq.gz
+  checksum=md5=68a6d6c86934f35656787e7846781269
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/001/SRR9879291/SRR9879291_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879291_R1.fastq.gz
+  checksum=md5=6c7d05fe67b0deb4f0341013d7e073da
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR987/001/SRR9879291/SRR9879291_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR9879291_R2.fastq.gz
+  checksum=md5=2a52eba422d22d733d175da9ca4f98da
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR852/000/SRR8526720/SRR8526720_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR8526720_R1.fastq.gz
+  checksum=md5=67f8ef01d251bcf9fda612653028daf5
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR852/000/SRR8526720/SRR8526720_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR8526720_R2.fastq.gz
+  checksum=md5=77f3911a5012b38f7735fd58cc0b9ac6
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR852/006/SRR8526726/SRR8526726_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR8526726_R1.fastq.gz
+  checksum=md5=7ba8cb03550fd7fb85249b6de9093621
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR852/006/SRR8526726/SRR8526726_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR8526726_R2.fastq.gz
+  checksum=md5=ac18e31797144ac8930a51903abe0da1
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR852/008/SRR8526718/SRR8526718_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR8526718_R1.fastq.gz
+  checksum=md5=3dab28b872db4f2f350a494072b92741
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR852/008/SRR8526718/SRR8526718_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR8526718_R2.fastq.gz
+  checksum=md5=537a3c6c533459a1970b62a162264556
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR852/003/SRR8526723/SRR8526723_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR8526723_R1.fastq.gz
+  checksum=md5=aaa605050f943fca086ac49aff891b2b
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR852/003/SRR8526723/SRR8526723_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR8526723_R2.fastq.gz
+  checksum=md5=da370d815dfdc7209a0d7ee0fda908d0
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR852/007/SRR8526727/SRR8526727_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR8526727_R1.fastq.gz
+  checksum=md5=2ee4038ad12b866206536c50d31c3da1
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR852/007/SRR8526727/SRR8526727_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR8526727_R2.fastq.gz
+  checksum=md5=0660d6b21660f09749bf8b1fdea664b2
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR852/001/SRR8526721/SRR8526721_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR8526721_R1.fastq.gz
+  checksum=md5=701e206d0e08db328be9322f5a76d5a5
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR852/001/SRR8526721/SRR8526721_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR8526721_R2.fastq.gz
+  checksum=md5=8a0c85e09e4c375f5aca31695d5ca97c
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR852/002/SRR8526722/SRR8526722_1.fastq.gz
+  dir=data/raw/fastq
+  out=SRR8526722_R1.fastq.gz
+  checksum=md5=23a527929517473db2a27cd7ebbb2494
+https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR852/002/SRR8526722/SRR8526722_2.fastq.gz
+  dir=data/raw/fastq
+  out=SRR8526722_R2.fastq.gz
+  checksum=md5=6716c6b017878ef3e346e8700243bfe4

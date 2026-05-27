@@ -1,0 +1,26 @@
+sample_id	cohort	library_layout	instrument	fastq_R1_status	fastq_R2_status	trust4_run	n_clones	exclusion_reason
+SRR8526718	GSE126044	PAIRED	Illumina HiSeq 2500	PARTIAL	PARTIAL	no	NA	fastq incomplete or missing
+SRR8526720	GSE126044	PAIRED	Illumina HiSeq 2500	PARTIAL	PARTIAL	no	NA	fastq incomplete or missing
+SRR8526721	GSE126044	PAIRED	Illumina HiSeq 2500	OK	OK	yes	85	
+SRR8526722	GSE126044	PAIRED	Illumina HiSeq 2500	OK	OK	yes	21	
+SRR8526723	GSE126044	PAIRED	Illumina HiSeq 2500	OK	OK	yes	8	
+SRR8526725	GSE126044	PAIRED	Illumina HiSeq 2500	OK	OK	yes	3	
+SRR8526726	GSE126044	PAIRED	Illumina HiSeq 2500	OK	OK	yes	17	
+SRR8526727	GSE126044	PAIRED	Illumina HiSeq 2500	OK	OK	yes	13	
+SRR9879265	GSE135222	PAIRED	Illumina HiSeq 2500	MISSING	OK	no	NA	fastq incomplete or missing
+SRR9879268	GSE135222	PAIRED	Illumina HiSeq 2500	OK	OK	yes	4	
+SRR9879269	GSE135222	PAIRED	Illumina HiSeq 2500	OK	OK	yes	92	
+SRR9879272	GSE135222	PAIRED	Illumina HiSeq 2500	PARTIAL	OK	no	NA	fastq incomplete or missing
+SRR9879273	GSE135222	PAIRED	Illumina HiSeq 2500	OK	OK	yes	22	
+SRR9879274	GSE135222	PAIRED	Illumina HiSeq 2500	MISSING	OK	no	NA	fastq incomplete or missing
+SRR9879275	GSE135222	PAIRED	Illumina HiSeq 2500	OK	OK	yes	113	
+SRR9879280	GSE135222	PAIRED	Illumina HiSeq 2500	OK	PARTIAL	yes	12	fastq incomplete or missing
+SRR9879283	GSE135222	PAIRED	Illumina HiSeq 2500	PARTIAL	MISSING	no	NA	fastq incomplete or missing
+SRR9879284	GSE135222	PAIRED	Illumina HiSeq 2500	OK	OK	yes	NA	no productive TRB output
+SRR9879289	GSE135222	PAIRED	Illumina HiSeq 2500	PARTIAL	OK	no	NA	fastq incomplete or missing
+SRR9879291	GSE135222	PAIRED	Illumina HiSeq 2500	PARTIAL	PARTIAL	no	NA	fastq incomplete or missing
+SRR11094243	GSE145370	PAIRED	Illumina NovaSeq 6000	PARTIAL	PARTIAL	no	NA	fastq incomplete or missing
+SRR11094249	GSE145370	PAIRED	Illumina NovaSeq 6000	OK	OK	yes	526	
+SRR11094251	GSE145370	PAIRED	Illumina NovaSeq 6000	PARTIAL	PARTIAL	no	NA	fastq incomplete or missing
+SRR11094253	GSE145370	PAIRED	Illumina NovaSeq 6000	PARTIAL	PARTIAL	no	NA	fastq incomplete or missing
+SRR11094258	GSE145370	PAIRED	Illumina NovaSeq 6000	PARTIAL	PARTIAL	no	NA	fastq incomplete or missing

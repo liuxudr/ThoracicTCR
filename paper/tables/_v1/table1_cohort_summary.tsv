@@ -1,0 +1,4 @@
+cohort	n_samples_in_atlas	n_productive_TRB	total_clones	median_shannon	median_clonality	library_layout	instrument
+GSE126044	6	147	147	2.435	0.09	PAIRED	Illumina HiSeq 2500
+GSE135222	5	243	243	3.02	0.104	PAIRED	Illumina HiSeq 2500
+GSE145370	1	526	526	3.183	0.492	PAIRED	Illumina NovaSeq 6000

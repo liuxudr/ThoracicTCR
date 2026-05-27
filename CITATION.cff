@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use ThoracicTCR in your research, please cite it as below."
+title: "ThoracicTCR: pan-thoracic TCR repertoire atlas and prognostic / ICI-response toolkit"
+abstract: >-
+  ThoracicTCR is an end-to-end pipeline and command-line toolkit that
+  reconstructs T-cell receptor (TCR) repertoires from bulk RNA-Seq data
+  across five thoracic cancers (LUAD, LUSC, ESCA, MESO, THYM), computes
+  diversity / clonality / V-J usage / clone-size / motif metrics, builds
+  a cross-cancer atlas, and ships with R/ggplot2 figure scripts for
+  publication-ready outputs.
+type: software
+version: "0.1.0"
+date-released: "2026-05-27"
+license: MIT
+keywords:
+  - T-cell receptor
+  - TCR repertoire
+  - bulk RNA-Seq
+  - thoracic cancer
+  - lung cancer
+  - esophageal cancer
+  - mesothelioma
+  - thymoma
+  - immune checkpoint inhibitor
+  - diversity metrics
+  - TRUST4
+authors:
+  - family-names: "WZ Lab"
+    affiliation: ""
+repository-code: ""   # fill in after the GitHub repo is created
+# doi: 10.5281/zenodo.XXXXXXX  # fill in after first Zenodo release
+preferred-citation:
+  type: article
+  title: "ThoracicTCR: a unified TCR repertoire toolkit for pan-thoracic immuno-oncology"
+  authors:
+    - family-names: "WZ Lab"
+      affiliation: ""
+  year: 2026
+  journal: ""   # fill in once accepted

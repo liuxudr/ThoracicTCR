@@ -1,0 +1,63 @@
+# Path conventions for ThoracicTCR
+# All paths in src/ should resolve through this file.
+# Override per-machine via env var THORACICTCR_PATHS_CONFIG.
+
+data_root: /home/bio1/workdata1/WZ/XXG2/ideaB/data
+
+raw:
+  bam_dir: ${data_root}/raw/bam
+  unmapped_dir: ${data_root}/raw/unmapped
+  fastq_dir: ${data_root}/raw/fastq
+  manifest_dir: ${data_root}/raw/manifests
+
+repertoire:
+  trust4_dir: ${data_root}/repertoire/trust4
+  mixcr_dir: ${data_root}/repertoire/mixcr
+  filtered_dir: ${data_root}/repertoire/filtered
+
+hla:
+  arcashla_dir: ${data_root}/hla/arcashla
+  optitype_dir: ${data_root}/hla/optitype
+
+antigen:
+  netmhcpan_dir: ${data_root}/antigen/netmhcpan
+  vdjdb_match_dir: ${data_root}/antigen/vdjdb
+  mcpas_match_dir: ${data_root}/antigen/mcpas
+  iedb_match_dir: ${data_root}/antigen/iedb
+
+motif:
+  gliph2_dir: ${data_root}/motif/gliph2
+  tcrdist3_dir: ${data_root}/motif/tcrdist3
+
+metrics:
+  diversity_csv: ${data_root}/metrics/diversity.csv
+  clonality_csv: ${data_root}/metrics/clonality.csv
+  overlap_csv: ${data_root}/metrics/overlap.csv
+
+atlas:
+  out_dir: ${data_root}/atlas
+  joblib: ${data_root}/atlas/thoracic_tcr_atlas.joblib
+
+models:
+  prognostic_dir: ${data_root}/models/prognostic
+  ici_response_dir: ${data_root}/models/ici_response
+
+external:
+  vdjdb: ${data_root}/external/vdjdb
+  mcpas: ${data_root}/external/mcpas
+  iedb: ${data_root}/external/iedb
+  tcrdb: ${data_root}/external/tcrdb
+  imgt: ${data_root}/external/imgt
+
+paper:
+  figures_dir: paper/figures
+  tables_dir: paper/tables
+
+# Tool binaries (resolved via conda env if PATH-discoverable)
+tools:
+  trust4: run-trust4
+  mixcr: mixcr
+  arcashla: arcasHLA
+  netmhcpan: netMHCpan
+  samtools: samtools
+  gdc_client: gdc-client
